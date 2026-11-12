@@ -4,7 +4,7 @@
 agent, is audited by guardrail rules plus an LLM reviewer _before_ money moves via PayPal Payouts.
 
 **Live demo:** https://payagent-ai-frontend.onrender.com/ (first load can take ~1 minute while free servers wake up)
-**Demo video:**
+**Demo video:** https://youtu.be/KQFula5WkTo
 
 ## The problem
 
